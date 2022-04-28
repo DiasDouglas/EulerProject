@@ -1,0 +1,19 @@
+{
+  "name": "eulerproject",
+  "version": "1.0.0",
+  "description": "Euler Project answers using TypeScript with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Douglas Dias",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/jest": "^27.4.1",
+    "jest": "^28.0.2"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.16.11"
+  }
+}
